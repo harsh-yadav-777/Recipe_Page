@@ -1,0 +1,21 @@
+#main-header {
+    background-color: floralwhite;
+    color: brown;
+}
+
+h2 {
+    background-color: floralwhite;
+    color: brown;
+}
+
+#ingredients {
+    color: green;
+}
+
+#instructions {
+    color: mediumblue;
+}
+
+footer {
+    font-style: italic;
+}
